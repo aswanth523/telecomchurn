@@ -37,7 +37,7 @@ The repo contains a .zip folder that has three files:
 
 <font color='red'>*Note*</font>: DO NOT MERGE the train and test data.
 
-## Libraries:
+## Libraries
 
 - Pandas
 - Numpy
@@ -51,3 +51,7 @@ The repo contains a .zip folder that has three files:
     - Random Forest Classifier
     - XGBoost Classifier
     - Confusion Matrix and Classification Report
+
+## Contact
+Created by [@aswanth523] - feel free to contact me
+Created by []
